@@ -26,7 +26,7 @@
         "storageName": "[concat('function', uniqueString(parameters('siteName')))]",
         "contentShareName": "[toLower(parameters('siteName'))]",
         "profileName": "CdnProfile1",
-        "repoUrl": "https://github.com/jefking/fl-default-static.git",
+        "repoUrl": "https://github.com/matrixgoh/fl-default-static.git",
         "branch": "master"
     },
     "resources": [
